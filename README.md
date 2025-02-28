@@ -4,37 +4,6 @@ MullvScript is an interactive Bash script designed to simplify managing your Mul
 
 ---
 
-## ✨ Features
-
-- **🔑 Authentication and Connection:**  
-  Log in using your 16-digit account ID, connect to, and disconnect from the VPN.
-
-- **🌍 Region Management:**  
-  Lists available regions and allows you to change your connection region.
-
-- **📱 Device Revocation:**  
-  Displays devices associated with your account and enables you to revoke access for specific devices.
-
-- **📜 Account Information:**  
-  Shows detailed account information and the current VPN status.
-
-- **🔄 Account Switching:**  
-  Allows you to switch to a different account by entering a new account ID.
-
-- **🛑 Security Modes:**  
-  Activate or deactivate **Lockdown Mode** (blocks network traffic if the VPN connection drops) and **Stealth Mode (Bridge)** to help mask VPN traffic.
-
-- **⚡ Protocol Switching:**  
-  Choose between **OpenVPN** and **WireGuard** protocols based on your preference.
-
-- **🎨 Interactive Interface:**  
-  Features an animated banner, a menu of options, and spinner animations for a visually engaging experience.
-
-- **❓ Built-in Help:**  
-  A Help Menu option provides detailed explanations of all available commands and functionalities.
-
----
-
 ## 📌 Requirements and Dependencies
 
 To run MullvScript, the following binaries must be installed:
@@ -61,11 +30,6 @@ Clone or download the script from the repository:
 ```bash
  git clone https://github.com/EndlssNightmare/MullvScript.git
 ```
-
-Alternatively, visit the authors' pages:
-
-- [EndlssNightmare](https://github.com/EndlssNightmare)
-- [SmartFox](https://github.com/Smarttfoxx)
 
 ### 📝 Permissions
 Make the script executable:
